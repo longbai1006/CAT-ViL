@@ -82,13 +82,8 @@ In this project, we implement our method using the Pytorch library, the structur
 - utils.py
 
 ---
-## Dataset (will release after acceptance)
-1. EndoVis-18-VQLA
-    - [Images](https://endovissub2017-roboticinstrumentsegmentation.grand-challenge.org/) 
-    - VQLA
-2. EndoVis-17-VQLA
-    - [Images](https://endovissub2018-roboticscenesegmentation.grand-challenge.org/Home/)
-    - VQLA  
+## Dataset
+Please refer to [Surgical VQLA](https://github.com/longbai1006/Surgical-VQLA) for further dataset information
 
 ---
 
