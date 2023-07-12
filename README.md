@@ -6,9 +6,24 @@
 
 <h2> Co-Attention Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery </h1>
 
+<h4> Long Bai*, Mobarakol Islam*, and Hongliang Ren </h3>
+
 </samp>   
 
 </div>     
+
+---
+
+If you find our code or paper useful, please cite as
+
+```bibtex
+@article{bai2023co,
+  title={Co-Attention Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery},
+  author={Bai, Long and Islam, Mobarakol and Ren, Hongliang},
+  journal={arXiv preprint arXiv:2307.05182},
+  year={2023}
+}
+```
 
 ---
 ## Abstract
