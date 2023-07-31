@@ -17,10 +17,10 @@
 If you find our code or paper useful, please cite as
 
 ```bibtex
-@article{bai2023co,
-  title={Co-Attention Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery},
+@article{bai2023revisiting,
+  title={Revisiting Distillation for Continual Learning on Visual Question Localized-Answering in Robotic Surgery},
   author={Bai, Long and Islam, Mobarakol and Ren, Hongliang},
-  journal={arXiv preprint arXiv:2307.05182},
+  journal={arXiv preprint arXiv:2307.12045},
   year={2023}
 }
 ```
