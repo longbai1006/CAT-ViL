@@ -8,8 +8,14 @@
 
 <h4> Long Bai*, Mobarakol Islam*, and Hongliang Ren </h3>
 
+<h2> MICCAI 2023 </h1>
+
 </samp>   
 
+| **[[```arXiv```](<https://arxiv.org/abs/2307.05182>)]** |
+|:-------------------:|
+
+---
 </div>     
 
 ---
