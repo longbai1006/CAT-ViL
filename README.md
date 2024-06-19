@@ -8,7 +8,7 @@
 
 <h4> Long Bai*, Mobarakol Islam*, and Hongliang Ren </h3>
 
-<h2> MICCAI 2023 </h1>
+<h2> Medical Image Computing and Computer Assisted Intervention (MICCAI) 2023 </h1>
 
 </samp>   
 
