@@ -22,11 +22,13 @@
 If you find our code or paper useful, please cite as
 
 ```bibtex
-@article{bai2023co,
-  title={Co-Attention Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery},
+@inproceedings{bai2023cat,
+  title={CAT-ViL: Co-Attention Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery},
   author={Bai, Long and Islam, Mobarakol and Ren, Hongliang},
-  journal={arXiv preprint arXiv:2307.05182},
-  year={2023}
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={397--407},
+  year={2023},
+  organization={Springer}
 }
 ```
 
