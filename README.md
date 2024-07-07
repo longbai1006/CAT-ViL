@@ -6,14 +6,14 @@
 
 <h2> CAT-ViL: Co-Attention Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery </h1>
 
-<h4> Long Bai *, Mobarakol Islam *, and Hongliang Ren </h3>
+<h4> Long Bai*, Mobarakol Islam*, and Hongliang Ren </h3>
 
 <h3> Medical Image Computing and Computer Assisted Intervention (MICCAI) 2023 </h2>
 
 </samp>   
 
-| **[[```arXiv```](<https://arxiv.org/abs/2307.05182>)]** |
-|:-------------------:|
+| **[[```arXiv```](<https://arxiv.org/abs/2307.05182>)]** | **[[```Paper```](<https://link.springer.com/chapter/10.1007/978-3-031-43996-4_38>)]** |
+|:-------------------:|:-------------------:|
 
 ---
 
